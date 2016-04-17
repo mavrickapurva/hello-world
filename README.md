@@ -1,2 +1,3 @@
 # hello-world
 my first repository!
+Ready to tackle real problems as now I m here...
